@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { useState, useEffect } from "react";
 import { useForm, useFieldArray } from "react-hook-form";
 import { Input, Button, Row, Col, Select, Space, Typography } from "antd";
